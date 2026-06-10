@@ -6,10 +6,6 @@
   <img src="assets/Banner.jpg" alt="Profile banner" width="86%" />
 </p>
 
-<p align="center">
-  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
-</p>
-
 <h1 align="center">Tomás Gameiro</h1>
 
 <p align="center">
@@ -79,10 +75,6 @@ I like creating systems that feel alive — from autonomous agents and gameplay 
 </tr>
 </table>
 
-<p align="center">
-  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
-</p>
-
 ## Featured work
 
 <table align="center" width="92%">
@@ -100,10 +92,6 @@ A project centered around blending real-world surfaces with an interactive 3D / 
 - Plant placement and gameplay ideas
 - Unreal Engine mobile workflow
 
-<p align="center">
-  <img src="assets/gothic-sigil.png" width="90" alt="ornament" />
-</p>
-
 </td>
 <td valign="top" width="50%">
 
@@ -117,10 +105,6 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 - AI Perception
 - Role-based agents
 - Football / simulation gameplay logic
-
-<p align="center">
-  <img src="assets/gothic-sigil.png" width="90" alt="ornament" />
-</p>
 
 </td>
 </tr>
@@ -145,19 +129,11 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" width="95%" />
 </p>
 
-<p align="center">
-  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
-</p>
-
 ## Skills
 
 <details>
 <summary><b>Open skills</b></summary>
 <br/>
-
-<p align="center">
-  <img src="assets/gothic-sigil.png" width="90" alt="ornament" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,unity,git,github,visualstudio,vscode,html,css,js,php&perline=7" />
@@ -170,10 +146,6 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 
 </details>
 
-<p align="center">
-  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
-</p>
-
 ## Projects & direction
 
 <details>
@@ -185,15 +157,7 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 - **AR fitness demonstrator** — mobile AR concept
 - **Portfolio direction** — AI, AR, simulation, and polished gameplay systems
 
-<p align="center">
-  <img src="assets/gothic-sigil.png" width="140" alt="ornament" />
-</p>
-
 </details>
-
-<p align="center">
-  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
-</p>
 
 ## Roadmap
 
@@ -208,10 +172,6 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 - Move toward Game AI / Simulation AI / AR engineering roles
 
 </details>
-
-<p align="center">
-  <img src="assets/gothic-divider-main.png" width="86%" alt="ornament" />
-</p>
 
 ## Connect
 
