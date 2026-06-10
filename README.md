@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="assets/Banner.jpg" width="88%" alt="Nocturnal Codex Banner" />
+  <img src="assets/codex-hero.png" width="92%" alt="Codex profile poster" />
 </p>
 
 <p align="center">
-  <img src="assets/smoke-strip.gif" width="88%" height="42" alt="animated smoke divider" />
+  <img src="assets/smoke-strip.gif" width="86%" height="42" alt="animated divider" />
 </p>
 
 <h1 align="center">Tomás Gameiro</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=D7DCE2&center=true&vCenter=true&width=720&lines=Game+AI+%C2%B7+Unreal+Engine+%C2%B7+AR+%2F+Simulation+%C2%B7+C%2B%2B;Building+intelligent+systems+inside+interactive+worlds;Dark+interfaces+%C2%B7+Clean+logic+%C2%B7+Playable+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=D7DCE2&center=true&vCenter=true&width=720&lines=Game+AI+%C2%B7+Unreal+Engine+%C2%B7+AR+%2F+Simulation+%C2%B7+C%2B%2B;Building+intelligent+systems+inside+interactive+worlds;Clean+logic+%C2%B7+Playable+experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,78 +26,90 @@
   <img src="assets/gothic-divider-main.png" width="82%" alt="ornament" />
 </p>
 
-<br/>
-
 <h2 align="center">THE ARCHIVE</h2>
 
 <p align="center">
   <i>
-    I build systems that feel alive — autonomous agents, spatial interaction, AR placement,
+    I build systems that feel alive: autonomous agents, spatial interaction, AR placement,
     3D camera control, and gameplay logic designed to feel clean, responsive, and atmospheric.
   </i>
 </p>
 
-<p align="center">
-  <img src="assets/glow-sigil.gif" width="120" alt="animated sigil" />
-</p>
-
-<p align="center">
-  <b>Games and Multimedia student from Portugal</b><br/>
-  focused on <b>Game AI</b>, <b>Unreal Engine</b>, <b>AR</b>, and <b>simulation-driven gameplay</b>.
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="assets/gothic-divider-thin.png" width="76%" alt="divider" />
-</p>
-
-<h2 align="center">CURRENT RITUALS</h2>
-
-<p align="center">
-  <b>OfficeBloom</b> — AR / 3D desk-garden experience<br/>
-  <b>Game AI</b> — autonomous agents, behavior logic, role-based decision systems<br/>
-  <b>Simulation</b> — systems that react, adapt, and feel grounded<br/>
-  <b>Portfolio</b> — building toward Game AI / Simulation AI / AR roles
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="assets/smoke-strip.gif" width="70%" height="38" alt="smoke strip" />
-</p>
-
-<h2 align="center">FEATURED WORK</h2>
+<table align="center" width="92%">
+<tr>
+<td width="50%" valign="top">
 
 <h3 align="center">OfficeBloom</h3>
 
 <p align="center">
-  An AR / 3D desk-garden concept built around real-world surfaces, tabletop interaction,
-  Android AR scanning, and mobile-first 3D camera control.
+  <img src="assets/gothic-sigil.png" width="110" alt="OfficeBloom sigil" />
 </p>
 
 <p align="center">
-  <sub>
-    Android AR scanning · 3D tabletop mode · Touch camera orbit · Plant placement · Unreal Engine mobile workflow
-  </sub>
+  AR / 3D desk-garden experience built around real-world surfaces, tabletop interaction,
+  Android AR scanning, and mobile-first camera control.
 </p>
 
-<br/>
+<p align="center">
+  <sub>Unreal Engine · Android AR · 3D Camera · Interaction Systems</sub>
+</p>
+
+</td>
+<td width="50%" valign="top">
 
 <h3 align="center">Game AI Systems</h3>
 
 <p align="center">
-  Autonomous behavior prototypes focused on decision-making, gameplay intelligence,
-  role logic, and simulation-style agents.
+  <img src="assets/gothic-sigil.png" width="110" alt="Game AI sigil" />
 </p>
 
 <p align="center">
-  <sub>
-    Behavior Trees · Blackboard logic · AI Perception · Role-based agents · Football / simulation AI
-  </sub>
+  Autonomous behavior prototypes focused on decision-making, role logic,
+  behavior trees, and simulation-style agents.
 </p>
 
-<br/>
+<p align="center">
+  <sub>Behavior Trees · Blackboard · AI Perception · Simulation AI</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/smoke-strip.gif" width="70%" height="38" alt="animated divider" />
+</p>
+
+<table align="center" width="92%">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">AR Fitness Concept</h3>
+
+<p align="center">
+  A mobile AR demonstrator concept for exercises, equipment anchoring,
+  and spatial guidance inside gym or home environments.
+</p>
+
+<p align="center">
+  <sub>AR Anchoring · Mobile UX · Spatial Guidance · Research Prototype</sub>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Current Focus</h3>
+
+<p align="center">
+  OfficeBloom development<br/>
+  Gameplay AI experiments<br/>
+  Unreal Engine portfolio polish<br/>
+  Simulation / AR career direction
+</p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="assets/gothic-divider-main.png" width="82%" alt="ornament" />
@@ -118,8 +130,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" width="92%" alt="Activity graph" />
 </p>
 
-<br/>
-
 <p align="center">
   <img src="assets/gothic-divider-thin.png" width="76%" alt="divider" />
 </p>
@@ -136,10 +146,8 @@
   </sub>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="assets/smoke-strip.gif" width="65%" height="38" alt="smoke strip" />
+  <img src="assets/smoke-strip.gif" width="65%" height="38" alt="animated divider" />
 </p>
 
 <h2 align="center">ROADMAP</h2>
@@ -151,8 +159,6 @@
   Explore AR grounded in real spaces<br/>
   Move toward Game AI / Simulation AI / AR engineering roles
 </p>
-
-<br/>
 
 <p align="center">
   <img src="assets/gothic-divider-main.png" width="82%" alt="ornament" />
@@ -170,7 +176,7 @@
 </p>
 
 <p align="center">
-  <i>Clean systems. Dark aesthetics. Intelligent interactions.</i>
+  <i>Clean systems. Atmospheric visuals. Intelligent interactions.</i>
 </p>
 
 <p align="center">
