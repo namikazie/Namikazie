@@ -22,15 +22,19 @@
 
 ## 👋 About
 
-I am a **Games and Multimedia** student from Portugal focused on **Game AI**, **Unreal Engine**, **AR**, and **simulation-driven gameplay systems**.
+<p align="center">
+  I am a <b>Games and Multimedia</b> student from Portugal focused on <b>Game AI</b>, <b>Unreal Engine</b>, <b>AR</b>, and <b>simulation-driven gameplay systems</b>.
+</p>
 
-I enjoy building gameplay logic that feels responsive and alive: autonomous agents, role-based behavior, interaction systems, mobile AR workflows, and clean C++ / Blueprint architecture.
+<p align="center">
+  I enjoy building gameplay logic that feels responsive and alive: autonomous agents, role-based behavior, interaction systems, mobile AR workflows, and clean C++ / Blueprint architecture.
+</p>
 
 ---
 
 ## 🧠 Core Skills
 
-<table>
+<table align="center" width="92%">
 <tr>
 <td width="50%" valign="top">
 
@@ -64,7 +68,7 @@ I enjoy building gameplay logic that feels responsive and alive: autonomous agen
 - Mobile AR prototypes
 - Spatial interaction design
 - Real-world anchored gameplay ideas
-- Systems that connect physical and digital spaces
+- Physical + digital system integration
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +89,7 @@ I enjoy building gameplay logic that feels responsive and alive: autonomous agen
 
 ## 🚀 Project Direction
 
-<table>
+<table align="center" width="92%">
 <tr>
 <td width="50%" valign="top">
 
@@ -136,27 +140,32 @@ Autonomous gameplay prototypes focused on decision-making, role logic, football-
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<table align="center" width="92%">
+<tr>
+<td width="50%" align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=namikazie&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" alt="GitHub stats" />
+</td>
+<td width="50%" align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namikazie&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img width="58%" src="https://streak-stats.demolab.com?user=namikazie&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=namikazie&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" width="92%" alt="Activity graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" alt="Activity graph" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening **Unreal Engine C++** systems
-- Building more polished **Game AI** prototypes
-- Improving **AR interaction** and mobile workflows
-- Creating a stronger portfolio for **Game AI / Simulation AI / AR** roles
+<p align="center">
+  Strengthening <b>Unreal Engine C++</b> systems · Building polished <b>Game AI</b> prototypes · Improving <b>AR interaction</b> workflows · Growing a portfolio for <b>Game AI / Simulation AI / AR</b> roles
+</p>
 
 ---
 
