@@ -1,96 +1,39 @@
 <p align="center">
-  <img src="assets/vine-divider.svg" alt="Decorative divider" width="92%" />
+  <img src="assets/anime-banner.jpg" alt="Banner" width="100%" />
 </p>
-
-<!--
-  Anime banner / GIF space
-  When you have the image ready, upload it to this repository, for example:
-  assets/anime-banner.gif
-
-  Then replace the placeholder table below with:
-
-  <p align="center">
-    <img src="assets/anime-banner.gif" alt="Anime banner" width="100%" />
-  </p>
--->
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-<br/>
-<br/>
-<b>Anime banner / GIF space</b>
-<br/>
-<sub>Upload your anime image later and place it here.</sub>
-<br/>
-<br/>
-</td>
-</tr>
-</table>
 
 <h1 align="center">Tomás Gameiro</h1>
 
 <p align="center">
-  <b>Game AI · Unreal Engine · AR / Simulation · C++ Developer</b>
+  <b>Game AI · Unreal Engine · AR / Simulation · C++</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namikazie&style=for-the-badge&color=22c55e" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Portugal-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Portugal" />
-  <img src="https://img.shields.io/badge/Focus-Game%20AI%20%26%20AR-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Focus" />
+  <i>Building intelligent systems, immersive worlds, and interactive experiences.</i>
 </p>
 
 <p align="center">
-  <b>On a journey to build intelligent, immersive, and polished interactive worlds.</b>
+  <img src="https://komarev.com/ghpvc/?username=namikazie&style=for-the-badge&color=111111" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Portugal-111111?style=for-the-badge&logoColor=white" alt="Portugal" />
+  <img src="https://img.shields.io/badge/Focus-Game%20AI%20%7C%20AR-111111?style=for-the-badge&logoColor=white" alt="Focus" />
 </p>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="62%">
-
-## Hello 👋
+## About
 
 I'm **Tomás Gameiro**, a **Games and Multimedia** student from Portugal focused on **Game AI**, **Unreal Engine**, **AR**, and **simulation-driven gameplay**.
 
-I enjoy building systems that combine **technical logic** with **playable design** — AI agents, spatial interaction, 3D camera control, AR placement, and gameplay features that feel clean, responsive, and alive.
-
-### I’m passionate about
-- 🎮 Game AI and autonomous agents
-- 🧠 Behavior Trees, Blackboard logic, and decision systems
-- 🛠️ Unreal Engine C++ / Blueprints
-- 🌱 AR interaction and spatial gameplay
-- 📱 Mobile-first 3D design
-- 🧩 Clean, scalable gameplay architecture
-
-</td>
-<td valign="top" width="38%">
-
-## Quick profile
-
-- 📍 Portugal
-- 🎓 Games & Multimedia student
-- 💻 Main stack: **C++**, Unreal Engine, C#, Python
-- 🎯 Goal: **Game AI / Simulation AI / AR roles**
-- 🌿 Flagship project: **OfficeBloom**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namikazie&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-</td>
-</tr>
-</table>
+I like creating systems that feel alive — from autonomous agents and gameplay logic to spatial interaction, 3D camera systems, and immersive AR experiences.
 
 ---
 
 ## Present status
 
-👉 Refining **OfficeBloom**, an AR / 3D desk-garden experience built around scanned surfaces, tabletop interaction, and mobile-first camera control.  
-👉 Expanding my work in **gameplay AI**, role-based agents, and simulation logic.  
-👉 Improving my portfolio toward **Game AI**, **Simulation AI**, and **AR** roles.  
-👉 Exploring how real-world spaces can blend naturally with interactive 3D systems.
+- Working on **OfficeBloom**, an AR / 3D desk-garden concept
+- Expanding my work in **gameplay AI** and **role-based agent behavior**
+- Improving my portfolio for **Game AI / Simulation AI / AR roles**
+- Building more polished and technically solid Unreal Engine projects
 
 ---
 
@@ -100,55 +43,55 @@ I enjoy building systems that combine **technical logic** with **playable design
 <tr>
 <td valign="top" width="50%">
 
-### 🌿 OfficeBloom
+### OfficeBloom
 
-An AR / 3D desk-garden concept built around the idea of turning a real desk or surface into a living digital space.
+A project centered around blending real-world surfaces with an interactive 3D / AR environment.
 
 **Focus areas**
-- Android AR surface scanning
-- 3D tabletop mode
-- Touch camera orbit system
-- Plant placement and interaction ideas
+- Android AR scanning
+- 3D tabletop interaction
+- Touch camera systems
+- Plant placement and gameplay ideas
 - Unreal Engine mobile workflow
 
 </td>
 <td valign="top" width="50%">
 
-### 🤖 Game AI systems
+### Game AI Systems
 
-Projects and prototypes focused on autonomous agents, decision-making, and role-based gameplay behavior.
+Projects and prototypes focused on autonomous behavior and gameplay intelligence.
 
 **Focus areas**
 - Behavior Trees
-- Blackboard-driven decisions
-- AI Perception concepts
-- EQS-style support positioning
-- Football / simulation role logic
+- Blackboard logic
+- AI Perception
+- Role-based agents
+- Football / simulation gameplay logic
 
 </td>
 </tr>
 </table>
 
+---
+
+## GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=namikazie&repo=FinalProject-SpookyMess&theme=github_dark&hide_border=true" alt="FinalProject-SpookyMess" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=namikazie&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namikazie&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=namikazie&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" width="100%" />
 </p>
 
 ---
 
-## GitHub stats 👨‍💻
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=namikazie&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=namikazie&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</p>
-
----
-
-## Skills 🌱
+## Skills
 
 <details>
 <summary><b>Show skills</b></summary>
@@ -159,7 +102,6 @@ Projects and prototypes focused on autonomous agents, decision-making, and role-
 </p>
 
 ### Core areas
-
 - **Game development:** Unreal Engine, gameplay systems, interaction systems
 - **Game AI:** Behavior Trees, Blackboard logic, role-based agents, simulation logic
 - **Programming:** C++, C#, Python, JavaScript, PHP
@@ -169,32 +111,31 @@ Projects and prototypes focused on autonomous agents, decision-making, and role-
 
 ---
 
-## Projects & portfolio direction 🔥
+## Projects & direction
 
 <details>
-<summary><b>Show projects & contributions</b></summary>
+<summary><b>Show projects</b></summary>
 <br/>
 
-- **OfficeBloom** — AR / 3D desk-garden experience concept
-- **FinalProject-SpookyMess** — 3D game project
+- **OfficeBloom** — AR / 3D desk-garden experience
 - **Football AI systems** — autonomous agents and role logic
-- **AR fitness demonstrator** — mobile AR concept for training guidance
+- **AR fitness demonstrator** — mobile AR concept
 - **Portfolio direction** — AI, AR, simulation, and polished gameplay systems
 
 </details>
 
 ---
 
-## Roadmap ⚡
+## Roadmap
 
 <details>
 <summary><b>Show roadmap</b></summary>
 <br/>
 
-- Build more polished Unreal Engine gameplay systems
+- Build more polished Unreal Engine systems
 - Create stronger public portfolio projects
 - Improve AI decision-making prototypes
-- Explore AR that feels grounded in real spaces
+- Explore AR grounded in real spaces
 - Move toward Game AI / Simulation AI / AR engineering roles
 
 </details>
@@ -205,13 +146,13 @@ Projects and prototypes focused on autonomous agents, decision-making, and role-
 
 <p align="center">
   <a href="mailto:tomasgameiro99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/namikazie">
-    <img src="https://img.shields.io/badge/GitHub-namikazie-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <b>Clean systems. Playable worlds. Intelligent interactions.</b>
+  <i>Clean systems. Dark aesthetics. Intelligent interactions.</i>
 </p>
