@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/top-ornament.svg" width="82%" alt="ornament" />
+  <img src="assets/gothic-divider-main.png" width="86%" alt="ornament" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
 </p>
 
 <h1 align="center">Tomás Gameiro</h1>
@@ -27,15 +27,15 @@
 </p>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
 </p>
 
 <table align="center" width="92%">
 <tr>
-<td width="15%" align="center" valign="middle">
-  <img src="assets/sigil-icon.svg" width="95" alt="ornament" />
+<td width="18%" align="center" valign="middle">
+  <img src="assets/gothic-sigil.png" width="120" alt="sigil" />
 </td>
-<td width="70%" valign="top">
+<td width="64%" valign="top">
 
 ## About
 
@@ -51,14 +51,14 @@ I like creating systems that feel alive — from autonomous agents and gameplay 
 - Clean and polished gameplay architecture
 
 </td>
-<td width="15%" align="center" valign="middle">
-  <img src="assets/sigil-icon.svg" width="95" alt="ornament" />
+<td width="18%" align="center" valign="middle">
+  <img src="assets/gothic-sigil.png" width="120" alt="sigil" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
 </p>
 
 <table align="center" width="92%">
@@ -74,13 +74,13 @@ I like creating systems that feel alive — from autonomous agents and gameplay 
 
 </td>
 <td width="38%" align="center" valign="middle">
-  <img src="assets/sigil-icon.svg" width="150" alt="ornament" />
+  <img src="assets/gothic-sigil.png" width="170" alt="ornament" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
 </p>
 
 ## Featured work
@@ -101,7 +101,7 @@ A project centered around blending real-world surfaces with an interactive 3D / 
 - Unreal Engine mobile workflow
 
 <p align="center">
-  <img src="assets/sigil-icon.svg" width="82" alt="ornament" />
+  <img src="assets/gothic-sigil.png" width="90" alt="ornament" />
 </p>
 
 </td>
@@ -119,7 +119,7 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 - Football / simulation gameplay logic
 
 <p align="center">
-  <img src="assets/sigil-icon.svg" width="82" alt="ornament" />
+  <img src="assets/gothic-sigil.png" width="90" alt="ornament" />
 </p>
 
 </td>
@@ -127,7 +127,7 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 </table>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-main.png" width="86%" alt="ornament" />
 </p>
 
 ## GitHub stats
@@ -146,7 +146,7 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 </p>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
 </p>
 
 ## Skills
@@ -156,12 +156,13 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 <br/>
 
 <p align="center">
-  <img src="assets/sigil-icon.svg" width="70" alt="ornament" />
-  <br/>
+  <img src="assets/gothic-sigil.png" width="90" alt="ornament" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,unity,git,github,visualstudio,vscode,html,css,js,php&perline=7" />
 </p>
 
-### Core areas
 - **Game development:** Unreal Engine, gameplay systems, interaction systems
 - **Game AI:** Behavior Trees, Blackboard logic, role-based agents, simulation logic
 - **Programming:** C++, C#, Python, JavaScript, PHP
@@ -170,7 +171,7 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 </details>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
 </p>
 
 ## Projects & direction
@@ -185,13 +186,13 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 - **Portfolio direction** — AI, AR, simulation, and polished gameplay systems
 
 <p align="center">
-  <img src="assets/sigil-icon.svg" width="120" alt="ornament" />
+  <img src="assets/gothic-sigil.png" width="140" alt="ornament" />
 </p>
 
 </details>
 
 <p align="center">
-  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+  <img src="assets/gothic-divider-thin.png" width="82%" alt="divider" />
 </p>
 
 ## Roadmap
@@ -209,7 +210,7 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 </details>
 
 <p align="center">
-  <img src="assets/top-ornament.svg" width="82%" alt="ornament" />
+  <img src="assets/gothic-divider-main.png" width="86%" alt="ornament" />
 </p>
 
 ## Connect
@@ -224,5 +225,5 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 </p>
 
 <p align="center">
-  <i>Clean systems. Dark style. Intelligent interactions.</i>
+  <i>Clean systems. Dark aesthetics. Intelligent interactions.</i>
 </p>
