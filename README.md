@@ -5,17 +5,17 @@
 <h1 align="center">Tomás Gameiro</h1>
 
 <p align="center">
-  <b>Game AI · Unreal Engine · AR / Simulation · C++</b>
+  <b>Game Dev · Unreal Engine · AR / Simulation · C++</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=D7DCE2&center=true&vCenter=true&width=760&lines=Game+AI+Developer+in+progress;Unreal+Engine+%7C+C%2B%2B+%7C+AR+%7C+Simulation;Building+systems+that+feel+alive" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=D7DCE2&center=true&vCenter=true&width=760&lines=Game+Developer+in+progress;Unreal+Engine+%7C+C%2B%2B+%7C+Simulations;Building+systems+that+feel+alive" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namikazie&style=for-the-badge&color=111111" alt="Profile views" />
   <img src="https://img.shields.io/badge/Portugal-111111?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Portugal" />
-  <img src="https://img.shields.io/badge/Focus-Game%20AI%20%7C%20AR%20%7C%20Simulation-111111?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Game%20Dev%20%7C%20AI%20%7C%20Simulation-111111?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Focus" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 👋 About
 
 <p align="center">
-  I am a <b>Games and Multimedia</b> student from Portugal focused on <b>Game AI</b>, <b>Unreal Engine</b>, <b>AR</b>, and <b>simulation-driven gameplay systems</b>.
+  I am a <b>Games and Multimedia</b> student from Portugal focused on <b>Game Programming</b>, <b>Unreal Engine</b>, <b>AI</b>, <b>AR</b>, and <b>simulation-driven gameplay systems</b>.
 </p>
 
 <p align="center">
@@ -42,8 +42,6 @@
 
 - Unreal Engine gameplay systems
 - C++ and Blueprint workflow
-- Touch and mobile interaction
-- 3D camera systems
 - Android build/testing workflow
 
 </td>
@@ -75,8 +73,10 @@
 
 ### 🛠️ Programming & Tools
 
-- C++ / C# / Python
-- JavaScript / PHP basics
+- C++ / C#
+- PHP basics
+- CSS / HTML
+- SQL
 - Git and GitHub
 - Visual Studio / VS Code
 - Clean, readable project structure
@@ -87,47 +87,10 @@
 
 ---
 
-## 🚀 Project Direction
-
-<table align="center" width="92%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 OfficeBloom
-
-AR / 3D desk-garden concept focused on real-world surfaces, tabletop interaction, Android AR scanning, and mobile-first camera control.
-
-**Main technical focus:**
-- AR scanning flow
-- 3D tabletop mode
-- Touch camera orbit
-- Plant placement systems
-- Unreal Engine mobile workflow
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ Game AI Systems
-
-Autonomous gameplay prototypes focused on decision-making, role logic, football-style simulation AI, and agent coordination.
-
-**Main technical focus:**
-- Behavior Trees
-- Blackboard keys
-- AI Perception
-- Role-based logic
-- Simulation gameplay behavior
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,unity,git,github,visualstudio,vscode,html,css,js,php&perline=7" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unreal,git,github,visualstudio,vscode,html,css,php&perline=5" alt="Skill icons" />
 </p>
 
 <p align="center">
@@ -164,7 +127,7 @@ Autonomous gameplay prototypes focused on decision-making, role logic, football-
 ## 🎯 Current Focus
 
 <p align="center">
-  Strengthening <b>Unreal Engine C++</b> systems · Building polished <b>Game AI</b> prototypes · Improving <b>AR interaction</b> workflows · Growing a portfolio for <b>Game AI / Simulation AI / AR</b> roles
+  Strengthening <b>Unreal Engine C++</b> systems · Building polished <b>Game AI</b> prototypes · Improving <b>AR interaction</b> workflows · Growing a portfolio for <b>Game Dev / Simulation AI / AR</b> roles
 </p>
 
 ---
