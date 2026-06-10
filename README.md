@@ -2,9 +2,31 @@
   <img src="assets/vine-divider.svg" alt="Decorative divider" width="92%" />
 </p>
 
-<p align="center">
-  <img src="assets/profile-header.svg" alt="Tomás Gameiro — Game AI, Unreal Engine, AR and Simulation" width="100%" />
-</p>
+<!--
+  Anime banner / GIF space
+  When you have the image ready, upload it to this repository, for example:
+  assets/anime-banner.gif
+
+  Then replace the placeholder table below with:
+
+  <p align="center">
+    <img src="assets/anime-banner.gif" alt="Anime banner" width="100%" />
+  </p>
+-->
+
+<table align="center" width="100%">
+<tr>
+<td align="center">
+<br/>
+<br/>
+<b>Anime banner / GIF space</b>
+<br/>
+<sub>Upload your anime image later and place it here.</sub>
+<br/>
+<br/>
+</td>
+</tr>
+</table>
 
 <h1 align="center">Tomás Gameiro</h1>
 
