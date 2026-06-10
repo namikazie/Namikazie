@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="assets/Banner.jpg" alt="Banner" width="100%" />
+  <img src="assets/top-ornament.svg" width="82%" alt="ornament" />
+</p>
+
+<p align="center">
+  <img src="assets/Banner.jpg" alt="Profile banner" width="86%" />
+</p>
+
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
 </p>
 
 <h1 align="center">Tomás Gameiro</h1>
@@ -18,7 +26,16 @@
   <img src="https://img.shields.io/badge/Focus-Game%20AI%20%7C%20AR-111111?style=for-the-badge&logoColor=white" alt="Focus" />
 </p>
 
----
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+</p>
+
+<table align="center" width="92%">
+<tr>
+<td width="15%" align="center" valign="middle">
+  <img src="assets/sigil-icon.svg" width="95" alt="ornament" />
+</td>
+<td width="70%" valign="top">
 
 ## About
 
@@ -26,7 +43,27 @@ I'm **Tomás Gameiro**, a **Games and Multimedia** student from Portugal focused
 
 I like creating systems that feel alive — from autonomous agents and gameplay logic to spatial interaction, 3D camera systems, and immersive AR experiences.
 
----
+**Main interests**
+- Game AI and autonomous agents
+- Unreal Engine C++ / Blueprints
+- AR interaction and spatial gameplay
+- Simulation-driven systems
+- Clean and polished gameplay architecture
+
+</td>
+<td width="15%" align="center" valign="middle">
+  <img src="assets/sigil-icon.svg" width="95" alt="ornament" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+</p>
+
+<table align="center" width="92%">
+<tr>
+<td width="62%" valign="top">
 
 ## Present status
 
@@ -35,11 +72,20 @@ I like creating systems that feel alive — from autonomous agents and gameplay 
 - Improving my portfolio for **Game AI / Simulation AI / AR roles**
 - Building more polished and technically solid Unreal Engine projects
 
----
+</td>
+<td width="38%" align="center" valign="middle">
+  <img src="assets/sigil-icon.svg" width="150" alt="ornament" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+</p>
 
 ## Featured work
 
-<table>
+<table align="center" width="92%">
 <tr>
 <td valign="top" width="50%">
 
@@ -53,6 +99,10 @@ A project centered around blending real-world surfaces with an interactive 3D / 
 - Touch camera systems
 - Plant placement and gameplay ideas
 - Unreal Engine mobile workflow
+
+<p align="center">
+  <img src="assets/sigil-icon.svg" width="82" alt="ornament" />
+</p>
 
 </td>
 <td valign="top" width="50%">
@@ -68,11 +118,17 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 - Role-based agents
 - Football / simulation gameplay logic
 
+<p align="center">
+  <img src="assets/sigil-icon.svg" width="82" alt="ornament" />
+</p>
+
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+</p>
 
 ## GitHub stats
 
@@ -86,18 +142,22 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" width="95%" />
 </p>
 
----
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+</p>
 
 ## Skills
 
 <details>
-<summary><b>Show skills</b></summary>
+<summary><b>Open skills</b></summary>
 <br/>
 
 <p align="center">
+  <img src="assets/sigil-icon.svg" width="70" alt="ornament" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,unity,git,github,visualstudio,vscode,html,css,js,php&perline=7" />
 </p>
 
@@ -109,12 +169,14 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 
 </details>
 
----
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+</p>
 
 ## Projects & direction
 
 <details>
-<summary><b>Show projects</b></summary>
+<summary><b>Open projects</b></summary>
 <br/>
 
 - **OfficeBloom** — AR / 3D desk-garden experience
@@ -122,14 +184,20 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 - **AR fitness demonstrator** — mobile AR concept
 - **Portfolio direction** — AI, AR, simulation, and polished gameplay systems
 
+<p align="center">
+  <img src="assets/sigil-icon.svg" width="120" alt="ornament" />
+</p>
+
 </details>
 
----
+<p align="center">
+  <img src="assets/section-divider.svg" width="88%" alt="divider" />
+</p>
 
 ## Roadmap
 
 <details>
-<summary><b>Show roadmap</b></summary>
+<summary><b>Open roadmap</b></summary>
 <br/>
 
 - Build more polished Unreal Engine systems
@@ -140,7 +208,9 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 
 </details>
 
----
+<p align="center">
+  <img src="assets/top-ornament.svg" width="82%" alt="ornament" />
+</p>
 
 ## Connect
 
@@ -154,5 +224,5 @@ Projects and prototypes focused on autonomous behavior and gameplay intelligence
 </p>
 
 <p align="center">
-  <i>Clean systems. Dark aesthetics. Intelligent interactions.</i>
+  <i>Clean systems. Dark style. Intelligent interactions.</i>
 </p>
