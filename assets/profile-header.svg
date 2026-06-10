@@ -1,0 +1,60 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="150" y1="80" x2="1040" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.77 0 0 0 0 0.37 0 0 0 0.40 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#grid)"/>
+  <path d="M63 280C210 132 395 101 557 168C713 232 842 283 1138 112" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.65"/>
+  <path d="M76 92C247 26 435 56 601 124C757 188 916 176 1122 66" stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.28"/>
+
+  <circle cx="172" cy="178" r="88" fill="#020617" stroke="#263241" stroke-width="2"/>
+  <circle cx="172" cy="178" r="65" stroke="url(#accent)" stroke-width="2" stroke-dasharray="12 10" opacity="0.85"/>
+  <circle cx="222" cy="118" r="10" fill="#22C55E" filter="url(#softGlow)"/>
+  <text x="172" y="166" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" fill="#E5E7EB">TG</text>
+  <text x="172" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.5" fill="#94A3B8">NAMIKAZIE</text>
+
+  <text x="310" y="120" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" fill="#F8FAFC">Tomás Gameiro</text>
+  <text x="312" y="160" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#94A3B8">Game AI · Unreal Engine · AR / Simulation</text>
+  <text x="312" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#CBD5E1">Building intelligent gameplay systems, immersive AR prototypes, and clean interactive 3D experiences.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <rect x="312" y="230" width="78" height="34" rx="17" fill="#22C55E" fill-opacity="0.13" stroke="#22C55E" stroke-opacity="0.35"/>
+    <text x="351" y="252" text-anchor="middle" fill="#86EFAC">C++</text>
+
+    <rect x="402" y="230" width="128" height="34" rx="17" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <text x="466" y="252" text-anchor="middle" fill="#BAE6FD">Unreal Engine</text>
+
+    <rect x="542" y="230" width="118" height="34" rx="17" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.35"/>
+    <text x="601" y="252" text-anchor="middle" fill="#DDD6FE">Game AI</text>
+
+    <rect x="672" y="230" width="64" height="34" rx="17" fill="#22C55E" fill-opacity="0.13" stroke="#22C55E" stroke-opacity="0.35"/>
+    <text x="704" y="252" text-anchor="middle" fill="#86EFAC">AR</text>
+
+    <rect x="748" y="230" width="122" height="34" rx="17" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <text x="809" y="252" text-anchor="middle" fill="#BAE6FD">Simulation</text>
+  </g>
+
+  <g opacity="0.82">
+    <rect x="940" y="94" width="166" height="166" rx="28" fill="#020617" stroke="#263241"/>
+    <path d="M982 178L1015 211L1074 141" stroke="url(#accent)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1023" y="293" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#64748B">AI SYSTEMS</text>
+  </g>
+</svg>
