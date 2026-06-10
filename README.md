@@ -1,121 +1,140 @@
 <p align="center">
-  <img src="assets/static-noise.gif" width="100%" height="6" alt="static line" />
-</p>
-
-<p align="center">
-  <img src="assets/codex-hero.png" width="92%" alt="Codex profile poster" />
-</p>
-
-<p align="center">
-  <img src="assets/smoke-strip.gif" width="86%" height="42" alt="animated divider" />
+  <img src="assets/Banner.jpg" width="88%" alt="Tomás Gameiro banner" />
 </p>
 
 <h1 align="center">Tomás Gameiro</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=D7DCE2&center=true&vCenter=true&width=720&lines=Game+AI+%C2%B7+Unreal+Engine+%C2%B7+AR+%2F+Simulation+%C2%B7+C%2B%2B;Building+intelligent+systems+inside+interactive+worlds;Clean+logic+%C2%B7+Playable+experiences" alt="Typing SVG" />
+  <b>Game AI · Unreal Engine · AR / Simulation · C++</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=D7DCE2&center=true&vCenter=true&width=760&lines=Game+AI+Developer+in+progress;Unreal+Engine+%7C+C%2B%2B+%7C+AR+%7C+Simulation;Building+systems+that+feel+alive" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namikazie&style=for-the-badge&color=111111" alt="Profile views" />
   <img src="https://img.shields.io/badge/Portugal-111111?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Portugal" />
-  <img src="https://img.shields.io/badge/Game%20AI%20%7C%20AR%20%7C%20Simulation-111111?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Game%20AI%20%7C%20AR%20%7C%20Simulation-111111?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Focus" />
 </p>
 
-<p align="center">
-  <img src="assets/gothic-divider-main.png" width="82%" alt="ornament" />
-</p>
+---
 
-<h2 align="center">THE ARCHIVE</h2>
+## 👋 About
 
-<p align="center">
-  <i>
-    I build systems that feel alive: autonomous agents, spatial interaction, AR placement,
-    3D camera control, and gameplay logic designed to feel clean, responsive, and atmospheric.
-  </i>
-</p>
+I am a **Games and Multimedia** student from Portugal focused on **Game AI**, **Unreal Engine**, **AR**, and **simulation-driven gameplay systems**.
 
-<table align="center" width="92%">
+I enjoy building gameplay logic that feels responsive and alive: autonomous agents, role-based behavior, interaction systems, mobile AR workflows, and clean C++ / Blueprint architecture.
+
+---
+
+## 🧠 Core Skills
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">OfficeBloom</h3>
+### 🎮 Game Development
 
-<p align="center">
-  <img src="assets/gothic-sigil.png" width="110" alt="OfficeBloom sigil" />
-</p>
-
-<p align="center">
-  AR / 3D desk-garden experience built around real-world surfaces, tabletop interaction,
-  Android AR scanning, and mobile-first camera control.
-</p>
-
-<p align="center">
-  <sub>Unreal Engine · Android AR · 3D Camera · Interaction Systems</sub>
-</p>
+- Unreal Engine gameplay systems
+- C++ and Blueprint workflow
+- Touch and mobile interaction
+- 3D camera systems
+- Android build/testing workflow
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">Game AI Systems</h3>
+### 🤖 Game AI
 
-<p align="center">
-  <img src="assets/gothic-sigil.png" width="110" alt="Game AI sigil" />
-</p>
+- Behavior Trees
+- Blackboard architecture
+- AI Perception
+- Role-based agents
+- Simulation-style decision logic
 
-<p align="center">
-  Autonomous behavior prototypes focused on decision-making, role logic,
-  behavior trees, and simulation-style agents.
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <sub>Behavior Trees · Blackboard · AI Perception · Simulation AI</sub>
-</p>
+### 📱 AR / Simulation
+
+- AR surface interaction concepts
+- Mobile AR prototypes
+- Spatial interaction design
+- Real-world anchored gameplay ideas
+- Systems that connect physical and digital spaces
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Programming & Tools
+
+- C++ / C# / Python
+- JavaScript / PHP basics
+- Git and GitHub
+- Visual Studio / VS Code
+- Clean, readable project structure
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="assets/smoke-strip.gif" width="70%" height="38" alt="animated divider" />
-</p>
+---
 
-<table align="center" width="92%">
+## 🚀 Project Direction
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">AR Fitness Concept</h3>
+### 🌱 OfficeBloom
 
-<p align="center">
-  A mobile AR demonstrator concept for exercises, equipment anchoring,
-  and spatial guidance inside gym or home environments.
-</p>
+AR / 3D desk-garden concept focused on real-world surfaces, tabletop interaction, Android AR scanning, and mobile-first camera control.
 
-<p align="center">
-  <sub>AR Anchoring · Mobile UX · Spatial Guidance · Research Prototype</sub>
-</p>
+**Main technical focus:**
+- AR scanning flow
+- 3D tabletop mode
+- Touch camera orbit
+- Plant placement systems
+- Unreal Engine mobile workflow
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">Current Focus</h3>
+### ⚽ Game AI Systems
 
-<p align="center">
-  OfficeBloom development<br/>
-  Gameplay AI experiments<br/>
-  Unreal Engine portfolio polish<br/>
-  Simulation / AR career direction
-</p>
+Autonomous gameplay prototypes focused on decision-making, role logic, football-style simulation AI, and agent coordination.
+
+**Main technical focus:**
+- Behavior Trees
+- Blackboard keys
+- AI Perception
+- Role-based logic
+- Simulation gameplay behavior
 
 </td>
 </tr>
 </table>
 
+---
+
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="assets/gothic-divider-main.png" width="82%" alt="ornament" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,unity,git,github,visualstudio,vscode,html,css,js,php&perline=7" alt="Skill icons" />
 </p>
 
-<h2 align="center">SYSTEM READINGS</h2>
+<p align="center">
+  <sub>
+    Unreal Engine · C++ · Blueprints · Game AI · AR · Simulation · Git · Visual Studio
+  </sub>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=namikazie&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" alt="GitHub stats" />
@@ -130,41 +149,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namikazie&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff" width="92%" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img src="assets/gothic-divider-thin.png" width="76%" alt="divider" />
-</p>
+---
 
-<h2 align="center">TOOLS OF THE CRAFT</h2>
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,unity,git,github,visualstudio,vscode,html,css,js,php&perline=7" alt="Skill icons" />
-</p>
+- Strengthening **Unreal Engine C++** systems
+- Building more polished **Game AI** prototypes
+- Improving **AR interaction** and mobile workflows
+- Creating a stronger portfolio for **Game AI / Simulation AI / AR** roles
 
-<p align="center">
-  <sub>
-    Unreal Engine · Gameplay Systems · Game AI · AR Interaction · C++ · C# · Python · Git
-  </sub>
-</p>
+---
 
-<p align="center">
-  <img src="assets/smoke-strip.gif" width="65%" height="38" alt="animated divider" />
-</p>
-
-<h2 align="center">ROADMAP</h2>
-
-<p align="center">
-  Build stronger Unreal Engine systems<br/>
-  Improve AI decision-making prototypes<br/>
-  Create polished public portfolio projects<br/>
-  Explore AR grounded in real spaces<br/>
-  Move toward Game AI / Simulation AI / AR engineering roles
-</p>
-
-<p align="center">
-  <img src="assets/gothic-divider-main.png" width="82%" alt="ornament" />
-</p>
-
-<h2 align="center">CONNECT</h2>
+## 📫 Connect
 
 <p align="center">
   <a href="mailto:tomasgameiro99@gmail.com">
@@ -176,9 +172,5 @@
 </p>
 
 <p align="center">
-  <i>Clean systems. Atmospheric visuals. Intelligent interactions.</i>
-</p>
-
-<p align="center">
-  <img src="assets/static-noise.gif" width="100%" height="6" alt="static line" />
+  <i>Building intelligent systems, immersive worlds, and clean gameplay architecture.</i>
 </p>
